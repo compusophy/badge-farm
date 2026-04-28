@@ -1,34 +1,55 @@
 # 🏆 badge farm
 
-a repo dedicated to unlocking github profile achievement badges.
+a repo dedicated to unlocking github profile **achievements** through legitimate
+repository activity.
 
-## badges unlocked
+> github now calls these "achievements" rather than "badges" — this repo keeps
+> the original *badge farm* name but the rest of the docs use the current term.
 
-| badge | status | tier | details |
+## 📚 see also
+
+- **[profile-achievements](https://github.com/compusophy/profile-achievements)** —
+  companion repo with a complete, up-to-date guide to every github achievement,
+  tier thresholds, retired achievements, and skin-tone variants. consult it for
+  the canonical list of what's earnable and how.
+
+## achievements unlocked
+
+| achievement | status | tier | details |
 |---|---|---|---|
 | 🤠 quickdraw | ✅ unlocked | one-time | closed issue #1 within seconds |
 | 🤪 yolo | ✅ unlocked | one-time | merged PR #2 with zero reviews |
 | 🦈 pull shark | ✅ unlocked | 🥈 silver (128 PRs) | merged 128 PRs total |
 
-## badges that need community help
+## achievements that need community help
 
-| badge | requirement | how you can help |
+| achievement | requirement | how you can help |
 |---|---|---|
 | 🧠 galaxy brain | need accepted discussion answers | ask a question in discussions, then mark my answer as accepted! |
 | ⭐ starstruck | need 16+ stars | ⭐ star this repo! |
 | 👯 pair extraordinaire | need co-authored PRs | submit a PR with me as co-author! |
 
+## out of scope for this farm
+
+these achievements exist but aren't farmable through this repo's activity:
+
+| achievement | why not here |
+|---|---|
+| ❤️ heart on your sleeve | one-time emoji react anywhere on github |
+| 💖 public sponsor | requires sponsoring through github sponsors |
+| 🧙 open sourcerer | requires merged PRs across **multiple** public repos |
+
 ## how it works
 
-each achievement has specific triggers on github. this repo exists to systematically
-activate those triggers through legitimate repository activity.
+each achievement has specific triggers on github. this repo exists to
+systematically activate those triggers through legitimate repository activity.
 
 ## achievements guide
 
 ### quickdraw 🤠
 > close an issue or pull request within 5 minutes of opening it
 
-### yolo 🤪  
+### yolo 🤪
 > merge a pull request without a code review
 
 ### pull shark 🦈
@@ -45,4 +66,4 @@ activate those triggers through legitimate repository activity.
 
 ---
 
-*farming badges since 2026* 🌾
+*farming achievements since 2026* 🌾
