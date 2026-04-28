@@ -8,7 +8,7 @@ a repo dedicated to unlocking github profile achievement badges.
 |---|---|---|---|
 | 🤠 quickdraw | ✅ unlocked | one-time | closed issue #1 within seconds |
 | 🤪 yolo | ✅ unlocked | one-time | merged PR #2 with zero reviews |
-| 🦈 pull shark | ✅ unlocked | 🥉 bronze (16 PRs) | merged 16 PRs total |
+| 🦈 pull shark | ✅ unlocked | 🥈 silver (128 PRs) | merged 128 PRs total |
 
 ## badges that need community help
 
