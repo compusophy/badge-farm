@@ -2,16 +2,21 @@
 
 a repo dedicated to unlocking github profile achievement badges.
 
-## badges targeted
+## badges unlocked
 
-| badge | status | tier |
+| badge | status | tier | details |
+|---|---|---|---|
+| 🤠 quickdraw | ✅ unlocked | one-time | closed issue #1 within seconds |
+| 🤪 yolo | ✅ unlocked | one-time | merged PR #2 with zero reviews |
+| 🦈 pull shark | ✅ unlocked | 🥉 bronze (16 PRs) | merged 16 PRs total |
+
+## badges that need community help
+
+| badge | requirement | how you can help |
 |---|---|---|
-| 🤠 quickdraw | ⏳ | one-time |
-| 🤪 yolo | ⏳ | one-time |
-| 🦈 pull shark | ⏳ | bronze (16 PRs) |
-| 🧠 galaxy brain | ❌ needs help | base (2 accepted) |
-| ⭐ starstruck | ❌ needs stars | base (16 stars) |
-| 👯 pair extraordinaire | ❌ needs co-author | base (1 co-authored) |
+| 🧠 galaxy brain | need accepted discussion answers | ask a question in discussions, then mark my answer as accepted! |
+| ⭐ starstruck | need 16+ stars | ⭐ star this repo! |
+| 👯 pair extraordinaire | need co-authored PRs | submit a PR with me as co-author! |
 
 ## how it works
 
